@@ -1,1 +1,4 @@
-a+b/2
+<?php 
+function srednia (a,b){
+resote (a+b)/2}
+?>
